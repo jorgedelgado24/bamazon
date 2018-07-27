@@ -8,3 +8,6 @@ INSERT INTO products (item_id, product_name, department_name, price, stock_quant
 INSERT INTO products (item_id, product_name, department_name, price, stock_quantity) VALUES ('AUBSSP', 'Bose Speakers', 'Audio', 450, 50);
 INSERT INTO products (item_id, product_name, department_name, price, stock_quantity) VALUES ('AUBSHP', 'Bose Headphones', 'Audio', 300, 35);
 INSERT INTO products (item_id, product_name, department_name, price, stock_quantity) VALUES ('AUBTHP', 'Beats Headphones', 'Audio', 300, 45);
+
+
+INSERT INTO usersBamazon (userName, password) VALUES ('jorgedelgado', 'password');
